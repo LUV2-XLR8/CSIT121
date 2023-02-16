@@ -1,0 +1,45 @@
+body{
+
+	background-color:orange;
+	color:navy;
+	font-family:Sans-serif,Verdana;
+	margin:150px;
+	text-align: center;
+
+}
+
+h1{
+
+	text-transform:uppercase;
+	color:cornflowerblue;
+	-webkit-text-stroke-width:2px;
+    -webkit-text-stroke-color:black;
+    text-align:center;
+
+   }
+
+
+p{
+
+text-indent:2em;
+text-align:center;
+color:;
+}
+
+h2{
+text-align:center;
+}
+
+
+ol{
+    
+	text-align: left;
+}
+
+ul{
+    text-align: left;
+}
+a{
+	text-align: center;
+	color:white;
+}
