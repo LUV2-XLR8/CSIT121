@@ -1,0 +1,84 @@
+h1{
+  color: #5c94cf;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  text-align: center;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+h3{
+  text-align: center;
+  color: red;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+h4{
+  color: #5c94cf;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+h2{
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: red;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+body{
+  background-image: url('lab10image.jpg');
+}
+
+p{
+  color: #2862a6;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+ul{
+  color: #2862a6;
+  border-style: solid;
+  padding: 20px;
+  border-color: #040b1c;
+  background: #040b1c;
+  max-width: 1000px;
+  min-width: 100px;
+  margin: auto;
+}
+
+a{
+  color: #2862a6;
+}
